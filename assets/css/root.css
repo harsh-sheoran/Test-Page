@@ -1,0 +1,119 @@
+:root {
+    --fs-12: 12px;
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-24: 24px;
+    --fs-32: 32px;
+    --fs-38: 38px;
+    --fs-48: 48px;
+    --fs-52: 52px;
+    --fs-80: 80px;
+
+    --fw-200: 200;
+    --fw-300: 300;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-600: 600;
+
+    --ff_Barlow: "Barlow", sans-serif;
+
+    --color-grey: #A2A2A2;
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-light-blue: #0071BC;
+    --color-light-white: #98989A;
+    --color-light-green: #D8FF99;
+}
+
+.ff_Barlow {
+    font-family: "Barlow", sans-serif;
+}
+
+.color-grey {
+    color: var(--color-grey);
+}
+
+.color-black {
+    color: var(--color-black);
+}
+
+.color-white {
+    color: var(--color-white);
+}
+
+.color-light-blue {
+    color: var(--color-light-blue);
+}
+
+.color-light-white {
+    color: var(--color-light-white);
+}
+
+.color-light-green {
+    color: var(--color-light-green);
+}
+
+.bg-color {
+    background-color: #1A1A1A;
+}
+
+.fs-14 {
+    font-size: var(--fs-14);
+}
+
+.fs-16 {
+    font-size: var(--fs-16);
+}
+
+.fs-18 {
+    font-size: var(--fs-18);
+}
+
+.fs-20 {
+    font-size: var(--fs-20);
+}
+
+.fs-24 {
+    font-size: var(--fs-24);
+}
+
+.fs-32 {
+    font-size: var(--fs-32);
+}
+
+.fs-38 {
+    font-size: var(--fs-38);
+}
+
+.fs-48 {
+    font-size: var(--fs-48);
+}
+
+.fs-52 {
+    font-size: var(--fs-52);
+}
+
+.fs-80 {
+    font-size: var(--fs-80);
+}
+
+.fw-200 {
+    font-weight: 200;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
