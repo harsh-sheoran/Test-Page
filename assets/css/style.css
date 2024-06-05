@@ -138,7 +138,7 @@ nav {
     padding: 12px 18px 12px 18px;
 }
 
-.Our_Works:hover  {
+.Our_Works:hover {
     color: #fff;
     background: #1A1A1A;
     border: 1px solid #fff;
@@ -154,7 +154,7 @@ nav {
     padding: 14px 24px 14px 24px;
 }
 
-.Trusted:hover{
+.Trusted:hover {
     color: #000;
     background: #9EFF00;
 }
@@ -405,6 +405,60 @@ nav {
     border: 1px solid #262626;
     padding: 10px 10px 10px 20px;
 }
+
+.accordion-button:not(.collapsed) {
+    color: var(--accordion_text);
+    box-shadow: none;
+
+    z-index: 3;
+
+}
+
+.accordion-button {
+    position: relative;
+    z-index: 30;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: #fff !important;
+    background: #1A1A1A !important;
+    border: none;
+    background: #1F1F1F;
+    border-radius: none;
+}
+
+.accordion-button:hover{
+    
+}
+
+.accordion-button:focus {
+    z-index: 30;
+    outline: 0;
+    box-shadow: none;
+}
+
+.accordion-body {
+    color: #fff;
+    background: #1A1A1A !important;
+}
+
+.accordion {
+    width: 800px !important;
+    padding: 24px 40px 24px 40px;
+    gap: 30px;
+    background: #1A1A1A !important;
+}
+
+.mt-24 {
+    margin-top: 24px;
+}
+
+.accordion-item {
+    color: none;
+    background-color: none;
+    border: none;
+}
+
 
 .border_top {
     border-top: 1px solid #262626;
