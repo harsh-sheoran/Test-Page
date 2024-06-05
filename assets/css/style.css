@@ -486,7 +486,7 @@ nav {
 
 @media (max-width: 992px) {
     .menuIcon {
-        left: 65%;
+        left: 90%;
         z-index: 10;
         width: 35px;
         height: 35px;
@@ -514,7 +514,7 @@ nav {
         display: flex;
         position: fixed;
         align-items: center;
-        background: #00192A;
+        background: #000;
         flex-direction: column;
         justify-content: center;
         transition: all 200ms linear;
@@ -524,4 +524,11 @@ nav {
         right: 0;
         opacity: 1;
     }
+
+    
+.Contact_us {
+position: absolute;
+top: -5%;
+}
+
 }
