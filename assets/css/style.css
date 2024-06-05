@@ -55,7 +55,7 @@ nav {
 .S-5-bg-img {
     background-size: cover;
     background-position: center;
-     background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-image: url("../images/S-5-bg-img.png");
 }
 
@@ -122,6 +122,12 @@ nav {
     padding: 12px 18px 12px 18px;
 }
 
+.Contact_us:hover {
+    color: #fff;
+    background: #1A1A1A;
+    border: 1px solid #fff;
+}
+
 .Our_Works {
     width: 104px;
     height: 45px;
@@ -132,6 +138,12 @@ nav {
     padding: 12px 18px 12px 18px;
 }
 
+.Our_Works:hover  {
+    color: #fff;
+    background: #1A1A1A;
+    border: 1px solid #fff;
+}
+
 .Trusted {
     width: 217px;
     height: 45px;
@@ -140,6 +152,11 @@ nav {
     background: #1A1A1A;
     border: 1px solid #262626;
     padding: 14px 24px 14px 24px;
+}
+
+.Trusted:hover{
+    color: #000;
+    background: #9EFF00;
 }
 
 .trusted {
@@ -186,6 +203,13 @@ nav {
     padding: 14px 24px 14px 24px;
 }
 
+.Start:hover {
+    color: #fff;
+    background: #1A1A1A;
+    border: 1px solid #fff;
+}
+
+
 .Submit {
     width: 116px;
     height: 49px;
@@ -195,6 +219,14 @@ nav {
     background: #9EFF00;
     padding: 14px 36px 14px 36px;
 }
+
+
+.Submit:hover {
+    color: #fff;
+    background: #1A1A1A;
+    border: 1px solid #fff;
+}
+
 
 .header_box {
     width: 699px;
